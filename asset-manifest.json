@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/real-time-socket-graph/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/real-time-socket-graph/static/js/main.3117c4c2.chunk.js",
+    "main.js.map": "/real-time-socket-graph/static/js/main.3117c4c2.chunk.js.map",
+    "runtime-main.js": "/real-time-socket-graph/static/js/runtime-main.eddb0771.js",
+    "runtime-main.js.map": "/real-time-socket-graph/static/js/runtime-main.eddb0771.js.map",
+    "static/js/2.a5d2e3f5.chunk.js": "/real-time-socket-graph/static/js/2.a5d2e3f5.chunk.js",
+    "static/js/2.a5d2e3f5.chunk.js.map": "/real-time-socket-graph/static/js/2.a5d2e3f5.chunk.js.map",
+    "index.html": "/real-time-socket-graph/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/real-time-socket-graph/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a5d2e3f5.chunk.js.LICENSE.txt": "/real-time-socket-graph/static/js/2.a5d2e3f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eddb0771.js",
+    "static/js/2.a5d2e3f5.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3117c4c2.chunk.js"
+  ]
+}
