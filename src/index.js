@@ -3,8 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 //import App from './App';
 //import reportWebVitals from './reportWebVitals';
-
-import io from 'socket.io-client';
 import { useEffect, useState } from 'react';
 
 
@@ -15,7 +13,10 @@ import {
   YAxis
 } from 'recharts';
 
-const socket = io();
+const io = require('socket.io-client');
+
+//const socket = io.connect('http://90fd2455388f.ngrok.io');
+const socket = io.connect('http://localhost');
 
 // const socket = io('url here',{   //This undefined could be a problem. 
 //     transports: ['websocket', 'polling']
